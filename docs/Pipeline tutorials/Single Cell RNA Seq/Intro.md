@@ -4,13 +4,11 @@ sidebar_position: 1
 
 # Introduction
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+The **Single Cell RNA Seq** pipeline processes data produced from 10X Genomics 3’ Gene Expression libraries.  
 
-Docusaurus has **much more to offer**!
+The pipeline uses a popular bioinformatics program called [**CellRanger**](https://www.10xgenomics.com/support/software/cell-ranger/latest) to process and analyze the raw sequencing data.  
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
-
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+The primary output of the pipeline is a **count matrix** that can be used for clustering, cell typing and differential gene expression.
 
 ## What's next?
 
