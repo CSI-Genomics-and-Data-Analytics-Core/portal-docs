@@ -22,6 +22,19 @@ Simply **drag-and-drop** the FASTQ files from your computer onto the dashboard.
 
 ![requestor information](../../../build/img/smrnaseq_upload_samples.png)
 
+## Sample sheet
+
+A sample sheet containing basic information about your experimental design is also required.  The header section contains two pieces of information: **sample**, a unique label for the sample being processed; **fastq_1**, file name of the single-end reads.
+```
+sample,fastq_1
+Treatment_A1,Treatment_A1_S1_L001_R1_001.fastq.gz
+Treatment_A2,Treatment_A2_S2_L001_R1_001.fastq.gz
+Treatment_A3,Treatment_A3_S3_L001_R1_001.fastq.gz
+Control_A1,Control_A1_S4_L001_R1_001.fastq.gz
+Control_A2,Control_A2_S5_L001_R1_001.fastq.gz
+Control_A3,Control_A3_S6_L001_R1_001.fastq.gz
+```
+
 ## Parameters
 
 Select the appropriate **reference genome** and **version** to use for sequence alignment and transcript quantification.
