@@ -10,6 +10,6 @@ The pipeline performs **quality control**, **read trimming**, **sequence alignme
 
 The primary output of the pipeline is a **count matrix** that can be used for differential gene expression.
 
-## What's next?
+## Learn more
 
 - Read the [official documentation](https://nf-co.re/scrnaseq/latest/)
