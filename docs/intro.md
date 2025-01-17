@@ -4,44 +4,20 @@ sidebar_position: 1
 
 # Introduction
 
-Let's discover **CloudFlow in less than 5 minutes**.
+[**CloudFlow**](https://www.pipeline.gedac.org/) is a web-based platform for facilitating computational biology research at the Cancer Science Institute (CSI).  The platform provides principal investigators, staff and students at CSI with easy access to best-practice bioinformatic pipelines that run in the cloud.  The pipelines are completely open-source and actively developed, maintained and tested by a consortium of dedicated researchers and engineers belonging to the [nf-core](https://nf-co.re/) community.
+
+## Key Features
+
+### ⚡ ️On-demand
+Computing resources needed to provision pipelines are **always available** and **accessible**, making it possible to run pipelines at any time without needing to wait in a queue.
+
+### 🚀 Scalable 
+Pipelines can be scaled to handle a **few samples** or a **few hundred samples**.  No matter what your study design or sample size is, we've got your back.
+
+### 🔑 Accessible
+Pipelines are run using a point-and-click interface, so users are **not required** to have any **command-line** or **advanced computing experience** to get started.
+
 
 ## Getting Started
 
-Get started by navigating to the **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Get started by navigating to CloudFlow website and signing up for a new account.
