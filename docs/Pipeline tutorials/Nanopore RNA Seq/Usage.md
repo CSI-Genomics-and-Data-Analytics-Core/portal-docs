@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Get started
 
-Navigate to the Pipelines page and select the **Launch** button under the **RNA-seq card**.
+Navigate to the Pipelines page and select the **Launch** button under the **Nanopore DNA/RNA-seq card**.
 
 ![nanopore rna seq pipeline](../../../build/img/nanopore_pipelines.png)
 
