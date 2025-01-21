@@ -56,8 +56,8 @@ const config: Config = {
     navbar: {
       title: 'CloudFlow',
       logo: {
-        alt: '',
-        src: 'static/img/logo.svg',
+        alt: 'logo',
+        src: 'img/csi_nus_logo.png',
       },
       items: [
         {

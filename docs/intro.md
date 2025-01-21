@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Introduction
 
-[**CloudFlow**](https://www.pipeline.gedac.org/) is a web-based platform for facilitating computational biology research at the Cancer Science Institute (CSI).  The platform provides principal investigators, staff and students at CSI with easy access to best-practice bioinformatic pipelines that run in the cloud.  The pipelines are completely open-source and actively developed, maintained and tested by a consortium of dedicated researchers and engineers belonging to the [nf-core](https://nf-co.re/) community.
+[**CloudFlow**](https://www.cloudflow.gedac.org/) is a web-based platform for facilitating computational biology research at the Cancer Science Institute (CSI).  The platform provides principal investigators, staff and students at CSI with easy access to best-practice bioinformatic pipelines that run in the cloud.  The pipelines are completely open-source and actively developed, maintained and tested by a consortium of dedicated researchers and engineers belonging to the [nf-core](https://nf-co.re/) community.
 
 ## Key Features
 
