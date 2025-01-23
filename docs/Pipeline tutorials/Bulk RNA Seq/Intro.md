@@ -12,4 +12,4 @@ The primary output of the pipeline is a **count matrix** that can be used for di
 
 ## Learn more
 
-- Read the [official documentation](https://nf-co.re/scrnaseq/latest/)
+- Read the [official documentation](https://nf-co.re/rnaseq/latest/)
