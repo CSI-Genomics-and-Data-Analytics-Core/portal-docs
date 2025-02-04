@@ -16,11 +16,18 @@ Fill in your full name, email address, institute, principal investigator name, a
 
 ![requestor information](/img/requestor_information.png)
 
+## Parameters
+
+Select the appropriate **protocol** and **quantification method** to use for sequence alignment and transcript quantification.
+
+![parameter information](/img/nanopore_pipeline_params.png)
+
+
 ## Upload samples
 
 Simply **drag-and-drop** the FASTQ files from your computer onto the dashboard.
 
-![requestor information](/img/rnaseq_upload_samples.png)
+![upload samples](/img/rnaseq_upload_samples.png)
 
 ## Sample sheet
 
@@ -35,14 +42,8 @@ Control_A2,Control_A2_S5_L001_R1_001.fastq.gz,Treatment_A2_S5_L001_R2_001.fastq.
 Control_A3,Control_A3_S6_L001_R1_001.fastq.gz,Treatment_A3_S6_L001_R2_001.fastq.gz
 ```
 
-## Parameters
-
-Select the appropriate **reference genome** and **version** to use for sequence alignment and transcript quantification.
-
-![requestor information](/img/rnaseq_pipeline_params.png)
-
 ## Review and submit
 
 Once the samples have been uploaded, your are ready to submit your job.  All you need to do is assign the run a unique **job name**; review the **Summary** section to ensure everything looks correct; and then **submit** your job.
 
-![requestor information](/img/nanopore_review_and_submit.png)
+![review page](/img/nanopore_review_and_submit.png)
