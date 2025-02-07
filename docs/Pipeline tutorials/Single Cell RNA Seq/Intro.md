@@ -10,8 +10,6 @@ The pipeline uses a popular bioinformatics program called [**CellRanger**](https
 
 The primary output of the pipeline is a **count matrix** that can be used for clustering, cell typing and differential gene expression.
 
-![Pipeline Overview](https://raw.githubusercontent.com/nf-core/scrnaseq/3.0.0//docs/images/scrnaseq_pipeline_V3.0-metro_clean.png)
-
 ## Learn more
 
 - Read the [official documentation](https://nf-co.re/scrnaseq/3.0.0/)
