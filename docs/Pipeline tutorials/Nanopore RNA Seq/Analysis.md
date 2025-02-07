@@ -6,7 +6,7 @@ sidebar_position: 5
 
 At this point, you should have everything you need to **perform downstream analysis** using your favorite **software packages**.
 
-If you are unsure where to start, please consider contacting one of our statisticians for **[data analysis support](../tutorial-extras/manage-docs-versions.md)**.
+If you are unsure where to start, please consider contacting one of our statisticians for **[data analysis support](https://support.gedac.org/support/tickets/new)**.
 
 If you would like to perform the analysis yourself or learn more about it, we have compiled a list of helpful resources below.
 
